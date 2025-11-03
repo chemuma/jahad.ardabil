@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # !!! توکن ربات جدید خود را در اینجا قرار دهید !!!
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-BOT_TOKEN =8330678576:AAE-ojcjYxmJmFO249HH_0jtldnGiGpH4Sg 
+BOT_TOKEN = "8330678576:AAE-ojcjYxmJmFO249HH_0jtldnGiGpH4Sg"
 DB_PATH = "jahad_bot.db" # نام پایگاه داده جدید
 
 def init_db():
