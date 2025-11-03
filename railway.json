@@ -3,5 +3,5 @@
   "build": {
     "builder": "nixpacks"
   },
-  "start": "python jahad.py"
+  "start": "python Bot.py"
 }
