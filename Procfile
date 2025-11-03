@@ -1,1 +1,1 @@
-worker: python jahad.py
+worker: python Bot.py
